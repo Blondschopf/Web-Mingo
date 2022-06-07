@@ -1,2 +1,3 @@
 # Web-Mingo
-Created with CodeSandbox
+
+A codesandbox to share and practice Java Script with my students.
