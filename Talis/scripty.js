@@ -24,3 +24,13 @@ console.log();
 function Cambiar() {
   document.getElementById("porro").innerHTML = "legalizen la MariaJuana";
 }
+
+function cambiarLink() {
+  document.getElementById("gate").innerHTML =
+    "<a href='https://www.youtube.com/watch?v=QTn_nz1I9_Y'>El psy kongroo</a>";
+}
+
+function cambiaToggle() {
+  let dd = document.getElementById("titre");
+  dd.classList.toggle("lifen");
+}

@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+}
+
+.texto-rojo {
+  color: rgb(69, 1, 126);
+  font-size: 60px;
+}

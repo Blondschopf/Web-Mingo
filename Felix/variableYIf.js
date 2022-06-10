@@ -5,7 +5,6 @@ if (var1 === 5) {
 } else {
   console.log("Var1 es menor que 5");
 }
-*/
 
 // paste text
 let input = document.getElementById("text-input");

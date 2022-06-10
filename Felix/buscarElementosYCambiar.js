@@ -4,6 +4,10 @@
 let elementoTitulo = document.getElementById("titulo");
 
 // Este función cambia el contenido del elemento que antes buscamos
-function cambiarTextoDeTitulo() {
+function CambiarTextoDeTitulo() {
   elementoTitulo.innerHTML = "Otro contenido";
+}
+
+function ToggleClass() {
+  elementoTitulo.classList.toggle("texto-rojo");
 }
